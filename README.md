@@ -19,3 +19,7 @@ A very simple php app I made for school stuff
 6. open the given link in your browser
 
 7. enjoy
+
+# Configuration 
+
+Stuff like database configurations are all in   `config.ini` file located in root directory.
